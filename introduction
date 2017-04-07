@@ -1,0 +1,23 @@
+1.次方 
+  2**3 == 8
+2.variable name :a-zA-Z0-9 
+3.Types:
+  int float bool str
+4.same variable can hold different type of data
+  a = 1
+  a = 'sasa'
+5.define method
+  def double(x):
+    return x  * 2
+6。comment  use #sasasasa
+
+7. two string can be conbined
+'a' + 'b' == 'ab'
+
+8.str(10)
+'a' + str(10) = 'a10'
+9。 ‘a’*3 = 'aaa'
+10. 多行string
+  ''' aaa
+  aaaaaaa'''
+11.print("i=",i)
