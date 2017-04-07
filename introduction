@@ -21,3 +21,4 @@
   ''' aaa
   aaaaaaa'''
 11.print("i=",i)
+12.len('asa') //different from java
