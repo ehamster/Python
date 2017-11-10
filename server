@@ -1,0 +1,11 @@
+export PATH=/home/xsede/users/xs-ehamster/anaconda3/bin:$PATH
+ #修改环境变量
+
+
+module spider tensorflow  #查看是否服务器有tensorflow的安装包
+
+nano .bashrc  #查看环境变量里面
+module spider tensorflow/1.1.0-cp36   #在里面加这个，这样每次都会自动加载
+
+
+
