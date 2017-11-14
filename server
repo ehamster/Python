@@ -9,3 +9,4 @@ module spider tensorflow/1.1.0-cp36   #在里面加这个，这样每次都会�
 
 
 
+tr -d '\15\32' < dosfile.txt > unixfile.txt  //提交job的时候用来转回车
